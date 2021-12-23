@@ -101,6 +101,8 @@
     font-size: 350%;
     color: whitesmoke;
     text-align: center; }
+  #karen {
+    font-size: 350%; }
   h2 {
     color: purple;
     text-align: center;
@@ -238,3 +240,9 @@ footer {
 .map {
   width: "700px";
   height: "500px"; }
+
+.button {
+  border: none;
+  background-color: purple;
+  color: whitesmoke;
+  padding: 0px 10px; }
